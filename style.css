@@ -1,0 +1,17 @@
+* {
+    line-height: 100px;
+    background-color: azure;
+}
+}
+h2 {
+    color:chocolate;
+    
+}
+h1 {
+    color:darkgoldenrod;
+}
+
+h1,
+h2 {
+    background-color: wheat;
+}
